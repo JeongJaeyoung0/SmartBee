@@ -24,4 +24,4 @@ void loop() {
   Serial.print("Heat index: ");
   Serial.print(hic); // 열지수(체감온도) 출력
   Serial.println(" °C ");
-}
+} 
